@@ -1,0 +1,546 @@
+[28-Oct-2017 06:07:23 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:07:28 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:07:29 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:08:52 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:09:04 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:24:09 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:24:20 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 06:24:24 UTC] PHP Parse error:  syntax error, unexpected 'Smartwave_Megamenu_Block_Navig' (T_STRING) in /home1/ratana3sagar/public_html/jewellery3/app/code/local/Smartwave/Megamenu/Block/Navigation.php on line 1
+[28-Oct-2017 17:42:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery3/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery3/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery3/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery3/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery3/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery3/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery3/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery3/lib/Zend/Db/Statement/Pdo.php on line 235
+[30-Oct-2017 04:41:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Oct-2017 05:02:28 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 04:46:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 08:29:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 08:29:12 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 16:47:50 UTC] PHP Fatal error:  Call to a member function resize() on string in /home1/ratana3sagar/public_html/app/design/frontend/smartwave/porto/template/catalog/layer/filter.phtml on line 14
+[31-Oct-2017 16:49:42 UTC] PHP Fatal error:  Call to a member function resize() on string in /home1/ratana3sagar/public_html/app/design/frontend/smartwave/porto/template/catalog/layer/filter.phtml on line 16
+[31-Oct-2017 16:51:04 UTC] PHP Fatal error:  Call to a member function resize() on string in /home1/ratana3sagar/public_html/app/design/frontend/smartwave/porto/template/catalog/layer/filter.phtml on line 14
+[31-Oct-2017 19:33:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:08 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:09 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:22 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:37 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[31-Oct-2017 19:33:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2017 12:10:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2017 18:59:13 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2017 20:58:31 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Nov-2017 02:25:51 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Nov-2017 09:52:20 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 02:36:48 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 06:04:12 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 07:28:15 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-Nov-2017 07:28:16 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-Nov-2017 07:28:23 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-Nov-2017 07:28:24 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-Nov-2017 08:22:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 19:13:14 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 22:09:44 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 23:16:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2017 23:23:09 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Nov-2017 19:47:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Nov-2017 20:19:35 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Nov-2017 03:25:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Nov-2017 23:54:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Nov-2017 03:55:35 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Nov-2017 18:55:27 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 05:08:45 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 05:29:20 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 06:59:08 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 08:10:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:00:24 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:00:25 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:11:44 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:11:45 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:25:13 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:27:10 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2017 09:30:53 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Nov-2017 21:38:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 04:22:31 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 07:15:19 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 07:36:17 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 14:11:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Nov-2017 15:19:51 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Nov-2017 05:53:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Nov-2017 06:23:14 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Nov-2017 06:56:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-Nov-2017 10:25:56 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[27-Nov-2017 05:16:56 UTC] PHP Fatal error:  Call to a member function setLayer() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[27-Nov-2017 07:47:22 UTC] PHP Fatal error:  Call to a member function setLayer() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[27-Nov-2017 10:09:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[27-Nov-2017 10:12:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 05:12:40 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 559
+[28-Nov-2017 05:12:55 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 559
+[28-Nov-2017 05:41:19 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 941
+[28-Nov-2017 05:45:55 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 493
+[28-Nov-2017 05:46:46 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 504
+[28-Nov-2017 06:02:14 UTC] PHP Fatal error:  Call to a member function count() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 64
+[28-Nov-2017 06:04:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 485
+[28-Nov-2017 06:07:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 470
+[28-Nov-2017 07:20:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 470
+[28-Nov-2017 07:46:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 470
+[28-Nov-2017 07:47:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 80
+[28-Nov-2017 08:27:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 08:30:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 08:33:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 08:36:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 08:42:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:12:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:15:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:18:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:27:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:48:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:51:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 09:57:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[28-Nov-2017 11:12:58 UTC] PHP Fatal error:  Call to a member function count() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 38
+[28-Nov-2017 11:18:55 UTC] PHP Fatal error:  Call to a member function count() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 38
+[28-Nov-2017 11:23:39 UTC] PHP Fatal error:  Call to a member function count() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/exclusive.phtml on line 38
+[29-Nov-2017 03:27:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[29-Nov-2017 06:45:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[29-Nov-2017 02:06:32 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 02:06:33 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 02:40:49 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 02:40:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 03:22:30 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 03:22:36 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 04:17:35 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 04:17:38 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 05:32:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 05:32:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 05:37:40 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 05:37:41 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 11:42:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[29-Nov-2017 22:17:16 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Nov-2017 22:17:17 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[30-Nov-2017 06:36:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[30-Nov-2017 06:51:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[01-Dec-2017 11:33:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[04-Dec-2017 05:39:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2017 05:41:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Dec-2017 05:41:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Dec-2017 05:46:59 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Dec-2017 05:47:00 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Dec-2017 06:08:18 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2017 06:10:33 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2017 06:42:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2017 06:43:53 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Dec-2017 04:09:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[05-Dec-2017 04:12:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[04-Dec-2017 22:31:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Dec-2017 04:39:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php:66309
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(66309): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/includes/src/Varien_Db_Statement_Pdo_Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(65897): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(55086): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(56123): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(57061): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3sagar/public_html/jewel in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php on line 66316
+[05-Dec-2017 08:29:16 UTC] PHP Fatal error:  Call to a member function setLayer() on boolean in /home1/ratana3sagar/public_html/jewellery2/includes/src/Mage_Catalog_Block_Layer_View.php on line 134
+[05-Dec-2017 05:19:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Dec-2017 02:12:17 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Dec-2017 02:13:42 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Dec-2017 08:33:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php:66309
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(66309): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/includes/src/Varien_Db_Statement_Pdo_Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(65897): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(55086): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(56123): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(57061): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3sagar/public_html/jewel in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php on line 66316
+[06-Dec-2017 08:36:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php:66309
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(66309): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/includes/src/Varien_Db_Statement_Pdo_Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(65897): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(55086): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(56123): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(57061): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3sagar/public_html/jewel in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php on line 66316
+[06-Dec-2017 03:56:29 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Dec-2017 10:03:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php:66309
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(66309): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/includes/src/Varien_Db_Statement_Pdo_Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(65897): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(55086): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(56123): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(57061): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3sagar/public_html/jewel in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php on line 66316
+[06-Dec-2017 04:06:28 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Dec-2017 10:45:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php:66309
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(66309): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/includes/src/Varien_Db_Statement_Pdo_Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(65897): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(55086): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(56123): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(57061): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3sagar/public_html/jewel in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php on line 66316
+[07-Dec-2017 03:36:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php:66309
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(66309): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/includes/src/Varien_Db_Statement_Pdo_Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(65897): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(55086): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(56123): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php(57061): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3sagar/public_html/jewel in /home1/ratana3sagar/public_html/jewellery2/includes/src/__default.php on line 66316
+[07-Dec-2017 03:48:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php:228
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php(228): PDOStatement->execute(Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Statement/Pdo/Mysql.php(110): Zend_Db_Statement_Pdo->_execute(Array)
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Zend/Db/Statement.php(291): Varien_Db_Statement_Pdo_Mysql->_execute(Array)
+#3 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Abstract.php(480): Zend_Db_Statement->execute(Array)
+#4 /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT RELEASE_...', Array)
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Db/Adapter/Pdo/Mysql.php(504): Zend_Db_Adapter_Pdo_Abstract->query('SELECT RELEASE_...', Array)
+#6 /home1/ratana3saga in /home1/ratana3sagar/public_html/jewellery2/lib/Zend/Db/Statement/Pdo.php on line 235
+[08-Dec-2017 09:32:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Image/Adapter/Gd2.php on line 419
+[08-Dec-2017 03:50:09 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Dec-2017 03:50:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Dec-2017 11:01:33 UTC] PHP Fatal error:  Call to a member function setLayer() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[11-Dec-2017 01:34:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Dec-2017 04:03:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/CatalogSearch/Model/Resource/Fulltext.php on line 553
+[12-Dec-2017 04:25:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Eav/Model/Entity/Attribute/Source/Table.php on line 44
+[20-Dec-2017 09:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function clearRecipients() on null in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template.php:410
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template.php(509): Mage_Core_Model_Email_Template->send('sales@semipreci...', 'Admin notificat...', Array)
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/local/Amasty/Customerattr/Model/Rewrite/Core/Email/Template.php(33): Mage_Core_Model_Email_Template->sendTransactional('amcustomerattr_...', 'general', 'sales@semipreci...', 'Admin notificat...', Array, '1')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/local/Amasty/Customerattr/Model/Rewrite/Customer.php(327): Amasty_Customerattr_Model_Rewrite_Core_Email_Template->sendTransactional('amcustomerattr_...', 'general', 'sales@semipreci...', 'Admin notificat...', Array, '1')
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Abstract.php(319): Amasty_Customerattr_M in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template.php on line 410
+[21-Dec-2017 09:40:43 UTC] PHP Fatal error:  Uncaught Exception: File '/home1/ratana3sagar/public_html/jewellery2/media/catalog/product/' does not exists. in /home1/ratana3sagar/public_html/jewellery2/lib/Varien/File/Transfer/Adapter/Http.php:96
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/get.php(205): Varien_File_Transfer_Adapter_Http->send('/home1/ratana3s...')
+#1 /home1/ratana3sagar/public_html/jewellery2/get.php(165): sendFile('/home1/ratana3s...')
+#2 {main}
+  thrown in /home1/ratana3sagar/public_html/jewellery2/lib/Varien/File/Transfer/Adapter/Http.php on line 96
+[21-Dec-2017 11:18:40 UTC] PHP Fatal error:  Uncaught Exception: File '/home1/ratana3sagar/public_html/jewellery2/media/catalog/product/' does not exists. in /home1/ratana3sagar/public_html/jewellery2/lib/Varien/File/Transfer/Adapter/Http.php:96
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/get.php(205): Varien_File_Transfer_Adapter_Http->send('/home1/ratana3s...')
+#1 /home1/ratana3sagar/public_html/jewellery2/get.php(165): sendFile('/home1/ratana3s...')
+#2 {main}
+  thrown in /home1/ratana3sagar/public_html/jewellery2/lib/Varien/File/Transfer/Adapter/Http.php on line 96
+[23-Dec-2017 07:24:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Image/Adapter/Gd2.php on line 420
+[23-Dec-2017 09:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_M in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[23-Dec-2017 10:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_M in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[25-Dec-2017 02:14:27 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Jan-2018 07:37:57 UTC] PHP Parse error:  syntax error, unexpected '/' in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 102
+[08-Jan-2018 08:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_ht in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 08:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_ht in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 08:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_html/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 08:56:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_html/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 08:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:204
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_html/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 204
+[08-Jan-2018 10:21:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_html/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 10:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttribute() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_html/jewe in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 10:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttribute() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_html/j in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 10:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAttributeCode() on boolean in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml:201
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Text/List.php(43): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Text_List->_toHtml()
+#6 /home1/ratana3sagar/public_ht in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[08-Jan-2018 10:25:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/view.phtml on line 201
+[10-Jan-2018 05:51:05 UTC] PHP Parse error:  syntax error, unexpected '‘feed’' (T_STRING), expecting ',' or ')' in /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Sales/Model/Order/Pdf/Invoice.php on line 57
+[12-Jan-2018 03:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isSaleable() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml:106
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template/Filter.php(208): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Filter/Template.php(163): Mage_Core_Model_Email_Template_Filter->blockDirective(Array)
+#6 /home1/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml on line 106
+[12-Jan-2018 03:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isSaleable() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml:106
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template/Filter.php(208): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Filter/Template.php(163): Mage_Core_Model_Email_Template_Filter->blockDirective(Array)
+#6 /home1/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml on line 106
+[12-Jan-2018 03:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isSaleable() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml:106
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template/Filter.php(208): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Filter/Template.php(163): Mage_Core_Model_Email_Template_Filter->blockDirective(Array)
+#6 /home1/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml on line 106
+[12-Jan-2018 03:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isSaleable() on null in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml:106
+Stack trace:
+#0 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Core_Block_Template->_toHtml()
+#4 /home1/ratana3sagar/public_html/jewellery2/app/code/core/Mage/Core/Model/Email/Template/Filter.php(208): Mage_Core_Block_Abstract->toHtml()
+#5 /home1/ratana3sagar/public_html/jewellery2/lib/Varien/Filter/Template.php(163): Mage_Core_Model_Email_Template_Filter->blockDirective(Array)
+#6 /home1/ in /home1/ratana3sagar/public_html/jewellery2/app/design/frontend/smartwave/porto/template/catalog/product/fancy-cuts.phtml on line 106
+[22-Jan-2018 03:50:35 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.mage-world.com/api/soap/?wsdl' : Extra content at the end of the document
+ in /home1/ratana3sagar/public_html/123/app/code/local/MW/Mcore/Helper/Data.php on line 524
